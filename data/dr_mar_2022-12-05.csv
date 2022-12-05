@@ -600,3 +600,23 @@ date_time,order,dose,route,action
 2022-12-04T21:15:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
 2022-12-04T21:17:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,6 Units,subcutaneous,Given
 2022-12-04T21:17:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-05T05:27:00Z,lansoprazole DR capsule 30 mg,30 mg,oral,Given
+2022-12-05T05:28:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-12-05T08:37:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-05T08:37:00Z,predniSONE tablet 60 mg,60 mg,oral,Given
+2022-12-05T08:37:00Z,sulfamethoxazole-trimethoprim DS (BACTRIM DS) 800-160 mg per tablet 1 tablet,1 tablet,oral,Given
+2022-12-05T09:28:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-12-05T09:29:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-12-05T09:29:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-05T09:40:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-12-05T13:03:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,2 Units,subcutaneous,Given
+2022-12-05T13:03:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-05T17:47:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-05T17:48:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-12-05T17:48:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,2 Units,subcutaneous,Given
+2022-12-05T19:33:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-12-05T21:31:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Given
+2022-12-05T21:31:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-05T21:31:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-05T21:32:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-12-05T21:39:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given

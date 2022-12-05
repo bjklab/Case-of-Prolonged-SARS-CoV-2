@@ -12,7 +12,7 @@ set.seed(16)
 #' ##############################
 #' load raw epic med data
 #' ############################## 
-read_csv("./data/DR_MAR_2022-11-17_to_2022-12-05.csv") |> 
+read_csv("../DR_MAR_2022-11-17_to_2022-12-05.csv") |> 
   clean_names() |> 
   mutate(date_time = mdy_hm(date_time)) |> 
   select(-action_by) |> 

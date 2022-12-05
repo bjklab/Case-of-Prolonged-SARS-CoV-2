@@ -1,0 +1,18 @@
+date,sp_o2,o2_flow_l_min,oxygen_device,fi_o2_percent,pulse_oximetry_type
+2022-11-19,96,50,high flow nasa...,50,Continuous
+2022-11-20,96,45,high flow nasal ...,60,Continuous
+2022-11-21,96,50,Mid flow nasal c...,60,Continuous
+2022-11-22,94,50,high flow nasal ...,60,Continuous
+2022-11-23,96,50,humidified nasal...,60,Continuous
+2022-11-24,94,55,high flow nasal ...,70,Continuous
+2022-11-25,100,60,high flow nasal ...,90,Continuous
+2022-11-26,92,60,high flow nasal ...,60,Continuous
+2022-11-27,96,60,aerosol mask,50,Continuous
+2022-11-28,98,7,humidified nasal...,50,Continuous
+2022-11-29,99,8,Mid flow nasal c...,NA,Continuous
+2022-11-30,96,6,Mid flow nasal c...,NA,NA
+2022-12-01,97,5,humidified nasal...,NA,Continuous
+2022-12-02,99,4,Mid flow nasal c...,NA,Continuous
+2022-12-03,96,4,nasal cannula,NA,NA
+2022-12-04,97,4,nasal cannula,NA,Continuous
+2022-12-05,93,2,nasal cannula,NA,NA
