@@ -1,0 +1,602 @@
+date_time,order,dose,route,action
+2022-11-19T15:16:00Z,predniSONE tablet 80 mg,80 mg,oral,Not Given
+2022-11-19T15:29:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Not Given
+2022-11-19T15:29:00Z,folic acid tablet 1 mg,1 mg,oral,Not Given
+2022-11-19T15:30:00Z,cyanocobalamin tablet 100 mcg,100 mcg,oral,Not Given
+2022-11-19T15:30:00Z,fenofibrate tablet 145 mg,145 mg,oral,Not Given
+2022-11-19T17:45:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-19T19:01:00Z,iopamidol (ISOVUE-370) 76% injection 70 mL,70 mL,intraVENOUS,Given
+2022-11-19T21:32:00Z,cetirizine tablet 5 mg,5 mg,oral,Given
+2022-11-19T21:32:00Z,ezetimibe tablet 10 mg,10 mg,oral,Given
+2022-11-19T21:36:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Hold
+2022-11-20T01:00:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-20T01:19:00Z,cefEPIME 2 g in NSS 50 mL IVPB,2 g,intraVENOUS,New Bag
+2022-11-20T01:30:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-20T01:30:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-20T01:49:00Z,cefEPIME 2 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-20T01:54:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,1.75 g,intraVENOUS,New Bag
+2022-11-20T02:01:00Z,acetaminophen tablet 650 mg,650 mg,oral,Given
+2022-11-20T03:28:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-20T05:00:00Z,levothyroxine tablet 150 mcg,0 mcg,oral,Hold
+2022-11-20T06:42:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-20T08:00:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Not Given
+2022-11-20T08:08:00Z,cyanocobalamin tablet 100 mcg,100 mcg,oral,Given
+2022-11-20T08:08:00Z,fenofibrate tablet 145 mg,145 mg,oral,Given
+2022-11-20T08:08:00Z,folic acid tablet 1 mg,1 mg,oral,Given
+2022-11-20T08:09:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Given
+2022-11-20T08:09:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-20T08:09:00Z,predniSONE tablet 80 mg,80 mg,oral,Given
+2022-11-20T08:23:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-20T08:23:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-20T09:14:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Infusion Resumed
+2022-11-20T09:14:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Paused
+2022-11-20T09:14:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Paused
+2022-11-20T09:53:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-20T10:47:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Complete
+2022-11-20T12:54:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Given
+2022-11-20T15:06:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-20T15:06:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-20T16:28:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-20T17:10:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-20T17:16:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,4 Units,subcutaneous,Given
+2022-11-20T17:16:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-20T22:03:00Z,cetirizine tablet 5 mg,5 mg,oral,Given
+2022-11-20T22:03:00Z,ezetimibe tablet 10 mg,10 mg,oral,Given
+2022-11-20T22:04:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Given
+2022-11-20T22:05:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-20T22:05:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-20T22:09:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-20T23:48:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-21T00:01:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-21T02:13:00Z,acetaminophen tablet 650 mg,650 mg,oral,Given
+2022-11-21T02:53:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-21T02:53:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-21T05:49:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-11-21T05:51:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-21T05:51:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-21T08:53:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-21T08:54:00Z,cyanocobalamin tablet 100 mcg,100 mcg,oral,Given
+2022-11-21T08:54:00Z,fenofibrate tablet 145 mg,145 mg,oral,Given
+2022-11-21T08:54:00Z,folic acid tablet 1 mg,1 mg,oral,Given
+2022-11-21T08:54:00Z,predniSONE tablet 80 mg,80 mg,oral,Given
+2022-11-21T08:54:00Z,sulfamethoxazole-trimethoprim DS (BACTRIM DS) 800-160 mg per tablet 1 tablet,1 tablet,oral,Given
+2022-11-21T08:55:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Not Given
+2022-11-21T09:21:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-21T09:21:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-21T09:34:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,"1,500 mg",intraVENOUS,New Bag
+2022-11-21T10:26:00Z,acetaminophen tablet 650 mg,650 mg,oral,Given
+2022-11-21T12:46:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-21T12:47:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Given
+2022-11-21T13:45:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-21T15:26:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-21T15:26:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-21T17:30:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,6 Units,subcutaneous,Given
+2022-11-21T17:30:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-21T17:52:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-21T19:34:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-21T19:34:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-21T21:19:00Z,cetirizine tablet 5 mg,5 mg,oral,Given
+2022-11-21T21:20:00Z,ezetimibe tablet 10 mg,10 mg,oral,Given
+2022-11-21T21:21:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-21T22:00:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,6 Units,subcutaneous,Given
+2022-11-22T00:08:00Z,furosemide 10 mg/mL injection 20 mg,20 mg,intraVENOUS,Given
+2022-11-22T01:21:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-22T01:21:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Rate/Dose Verify
+2022-11-22T02:20:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-22T02:20:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-22T06:20:00Z,acetaminophen tablet 650 mg,650 mg,oral,Given
+2022-11-22T06:20:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-22T06:20:00Z,senna tablet 8.6 mg,8.6 mg,oral,Given
+2022-11-22T06:21:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-22T06:21:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-22T06:22:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-11-22T06:57:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Paused
+2022-11-22T07:24:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Infusion Resumed
+2022-11-22T07:37:00Z,polyethylene glycol packet 17 g,17 g,oral,Given
+2022-11-22T08:19:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-22T08:58:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-22T08:58:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-22T09:15:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,"1,250 mg",intraVENOUS,New Bag
+2022-11-22T09:17:00Z,cyanocobalamin tablet 100 mcg,100 mcg,oral,Given
+2022-11-22T09:17:00Z,fenofibrate tablet 145 mg,145 mg,oral,Given
+2022-11-22T09:17:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Given
+2022-11-22T09:17:00Z,folic acid tablet 1 mg,1 mg,oral,Given
+2022-11-22T09:17:00Z,predniSONE tablet 80 mg,80 mg,oral,Given
+2022-11-22T10:45:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,--,intraVENOUS,Rate/Dose Change
+2022-11-22T10:49:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-22T10:49:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-22T11:55:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-22T11:56:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,0 mg,intraVENOUS,Infusion Stopped
+2022-11-22T12:14:00Z,acetaminophen tablet 650 mg,650 mg,oral,Given
+2022-11-22T12:17:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-22T13:29:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-22T13:35:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-22T13:35:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-22T13:53:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-22T13:53:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-22T17:35:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-22T17:35:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-22T17:39:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-22T17:51:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,4 Units,subcutaneous,Given
+2022-11-22T17:51:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-22T18:00:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,"1,250 mg",intraVENOUS,New Bag
+2022-11-22T18:01:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-22T18:02:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-22T18:03:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,0 mg,intraVENOUS,Infusion Paused
+2022-11-22T18:09:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,0 mg,intraVENOUS,Infusion Paused
+2022-11-22T18:29:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,--,intraVENOUS,Infusion Resumed
+2022-11-22T18:47:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-22T19:59:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,--,intraVENOUS,Rate/Dose Change
+2022-11-22T20:00:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-22T20:04:00Z,VANCOmycin 1.25 g in NSS 250 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-22T21:00:00Z,cetirizine tablet 5 mg,5 mg,oral,Not Given
+2022-11-22T21:00:00Z,ezetimibe tablet 10 mg,10 mg,oral,Given
+2022-11-22T21:00:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,6 Units,subcutaneous,Given
+2022-11-22T21:23:00Z,polyethylene glycol packet 17 g,17 g,oral,Given
+2022-11-22T21:24:00Z,senna tablet 8.6 mg,8.6 mg,oral,Given
+2022-11-22T21:26:00Z,acetaminophen tablet 650 mg,650 mg,oral,Given
+2022-11-22T21:27:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-22T21:28:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-22T21:34:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-22T21:34:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-22T21:35:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-22T21:35:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-23T01:35:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-23T01:35:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-23T01:55:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-23T02:01:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-23T02:01:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-23T05:37:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-11-23T05:38:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-23T05:38:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T05:41:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-23T08:39:00Z,acetaminophen tablet 650 mg,650 mg,oral,Given
+2022-11-23T08:39:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-23T08:39:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-23T08:40:00Z,folic acid tablet 1 mg,1 mg,oral,Given
+2022-11-23T08:40:00Z,predniSONE tablet 80 mg,80 mg,oral,Given
+2022-11-23T08:40:00Z,sulfamethoxazole-trimethoprim DS (BACTRIM DS) 800-160 mg per tablet 1 tablet,1 tablet,oral,IV Push
+2022-11-23T08:41:00Z,cyanocobalamin tablet 100 mcg,100 mcg,oral,Given
+2022-11-23T08:41:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Not Given
+2022-11-23T08:54:00Z,fenofibrate tablet 145 mg,145 mg,oral,Given
+2022-11-23T09:34:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T09:36:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-23T09:39:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-23T09:41:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T09:41:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T09:42:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T09:43:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-23T09:43:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-23T09:43:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,1.75 g,intraVENOUS,New Bag
+2022-11-23T11:13:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-23T11:13:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-23T11:26:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T11:27:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T12:50:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Given
+2022-11-23T12:50:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-23T14:18:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-23T14:24:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T14:24:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-23T14:25:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-23T14:25:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T14:31:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-23T14:31:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-23T15:37:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-23T17:25:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-23T17:27:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,4 Units,subcutaneous,Given
+2022-11-23T17:27:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-23T17:31:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Not Given
+2022-11-23T18:28:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-23T18:32:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T18:32:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-23T18:32:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,1.5 g,intraVENOUS,New Bag
+2022-11-23T19:18:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-23T19:40:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-23T20:02:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-23T20:38:00Z,cetirizine tablet 5 mg,5 mg,oral,Given
+2022-11-23T20:38:00Z,ezetimibe tablet 10 mg,10 mg,oral,Given
+2022-11-23T20:39:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-23T20:39:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-23T20:40:00Z,remdesivir 200 mg in NSS 250 mL LOADING DOSE infusion,200 mg,intraVENOUS,New Bag
+2022-11-23T20:40:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-23T20:48:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-23T20:48:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-23T20:48:00Z,senna tablet 8.6 mg,8.6 mg,oral,Not Given
+2022-11-23T21:12:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-23T21:25:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,4 Units,subcutaneous,Given
+2022-11-23T21:25:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-23T21:26:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-23T21:28:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T21:30:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-23T21:30:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-23T21:31:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Change
+2022-11-23T21:31:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-23T23:03:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T00:34:00Z,acetaminophen tablet 650 mg,650 mg,oral,Given
+2022-11-24T01:24:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-24T01:53:00Z,acetaminophen tablet 325 mg,325 mg,oral,Given
+2022-11-24T02:39:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-24T02:40:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-24T06:22:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-24T06:23:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-24T06:23:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-24T06:25:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Paused
+2022-11-24T06:25:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-11-24T06:32:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Infusion Resumed
+2022-11-24T08:56:00Z,folic acid tablet 1 mg,1 mg,oral,Given
+2022-11-24T08:57:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-24T08:57:00Z,cyanocobalamin tablet 100 mcg,100 mcg,oral,Given
+2022-11-24T08:57:00Z,fenofibrate tablet 145 mg,145 mg,oral,Given
+2022-11-24T08:57:00Z,lansoprazole DR capsule 15 mg,15 mg,oral,Given
+2022-11-24T08:57:00Z,predniSONE tablet 60 mg,60 mg,oral,Given
+2022-11-24T08:57:00Z,senna tablet 8.6 mg,8.6 mg,oral,Given
+2022-11-24T08:59:00Z,acetaminophen tablet 650 mg,650 mg,oral,Given
+2022-11-24T09:03:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-24T09:09:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Not Given
+2022-11-24T09:39:00Z,albuterol (5 mg/mL) 0.5% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-24T09:39:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-24T10:31:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-24T10:31:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-24T11:46:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-24T11:47:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-24T11:47:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-24T11:48:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-24T11:48:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,1.5 g,intraVENOUS,New Bag
+2022-11-24T13:19:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-24T13:19:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-24T13:21:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-24T13:28:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-24T13:28:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-24T13:44:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-24T13:46:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-24T13:46:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-24T13:48:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Given
+2022-11-24T13:48:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-24T15:17:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T17:46:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-24T17:46:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-24T17:48:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-24T17:48:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,4 Units,subcutaneous,Given
+2022-11-24T17:48:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-24T17:50:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-24T20:27:00Z,remdesivir 100 mg in NSS 250 mL MAINTENANCE DOSE infusion,100 mg,intraVENOUS,New Bag
+2022-11-24T20:27:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-24T20:27:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-24T20:29:00Z,remdesivir 100 mg in NSS 250 mL MAINTENANCE DOSE infusion,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T20:30:00Z,remdesivir 100 mg in NSS 250 mL MAINTENANCE DOSE infusion,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T20:31:00Z,senna tablet 8.6 mg,8.6 mg,oral,Not Given
+2022-11-24T20:32:00Z,remdesivir 100 mg in NSS 250 mL MAINTENANCE DOSE infusion,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T20:55:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-24T20:55:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-24T20:58:00Z,remdesivir 100 mg in NSS 250 mL MAINTENANCE DOSE infusion,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T21:01:00Z,remdesivir 100 mg in NSS 250 mL MAINTENANCE DOSE infusion,0 mg,intraVENOUS,Infusion Stopped
+2022-11-24T21:16:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-24T21:16:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,1.5 g,intraVENOUS,New Bag
+2022-11-24T21:17:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-24T21:19:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T21:19:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T21:19:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-24T21:19:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T21:20:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-24T21:20:00Z,cetirizine tablet 5 mg,5 mg,oral,Given
+2022-11-24T21:20:00Z,ezetimibe tablet 10 mg,10 mg,oral,Given
+2022-11-24T21:20:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T21:23:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Given
+2022-11-24T21:23:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-24T21:29:00Z,acetaminophen tablet 650 mg,650 mg,oral,Not Given
+2022-11-24T21:30:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T21:30:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T22:21:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T22:21:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-24T22:55:00Z,VANCOmycin 1.5 g in NSS 500 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-24T23:00:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-25T02:02:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-25T02:06:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-25T02:07:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-25T02:39:00Z,furosemide 10 mg/mL injection 20 mg,20 mg,intraVENOUS,Given
+2022-11-25T02:43:00Z,acetaminophen tablet 650 mg,650 mg,oral,Given
+2022-11-25T06:16:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-11-25T06:17:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Paused
+2022-11-25T06:17:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-25T06:17:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-25T06:17:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-25T06:29:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Infusion Resumed
+2022-11-25T06:35:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-25T06:36:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-25T07:59:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Paused
+2022-11-25T08:00:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Paused
+2022-11-25T08:07:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Infusion Resumed
+2022-11-25T08:08:00Z,cyanocobalamin tablet 100 mcg,100 mcg,oral,Given
+2022-11-25T08:08:00Z,furosemide 10 mg/mL injection 20 mg,20 mg,intraVENOUS,Given
+2022-11-25T08:09:00Z,fenofibrate tablet 145 mg,145 mg,oral,Given
+2022-11-25T08:09:00Z,folic acid tablet 1 mg,1 mg,oral,Given
+2022-11-25T08:09:00Z,lansoprazole DR capsule 15 mg,15 mg,oral,Given
+2022-11-25T08:09:00Z,sulfamethoxazole-trimethoprim DS (BACTRIM DS) 800-160 mg per tablet 1 tablet,1 tablet,oral,Given
+2022-11-25T08:26:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-25T08:26:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Paused
+2022-11-25T08:26:00Z,sodium chloride 0.9 % KVO,10 mL/hr,intraVENOUS,New Bag
+2022-11-25T08:26:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,1.75 g,intraVENOUS,New Bag
+2022-11-25T08:27:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Not Given
+2022-11-25T08:28:00Z,senna tablet 8.6 mg,8.6 mg,oral,Not Given
+2022-11-25T08:32:00Z,predniSONE tablet 80 mg,80 mg,oral,Given
+2022-11-25T08:56:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-25T10:00:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-25T10:00:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-25T10:01:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-25T10:39:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Paused
+2022-11-25T11:03:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Infusion Resumed
+2022-11-25T11:53:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Paused
+2022-11-25T13:09:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-25T13:09:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-25T13:14:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-25T13:14:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-25T13:34:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-25T16:28:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-25T16:28:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-25T17:05:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-25T17:05:00Z,furosemide 10 mg/mL injection 20 mg,20 mg,intraVENOUS,Given
+2022-11-25T17:09:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-25T17:10:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,1.75 g,intraVENOUS,New Bag
+2022-11-25T17:46:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-25T18:19:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-25T18:20:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Given
+2022-11-25T18:44:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-25T20:22:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-25T20:22:00Z,remdesivir 100 mg in NSS 250 mL MAINTENANCE DOSE infusion,100 mg,intraVENOUS,New Bag
+2022-11-25T20:23:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-25T20:52:00Z,remdesivir 100 mg in NSS 250 mL MAINTENANCE DOSE infusion,0 mg,intraVENOUS,Infusion Stopped
+2022-11-25T21:08:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-25T21:08:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-25T21:21:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-25T21:26:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-25T23:02:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-26T00:05:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-26T01:19:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-26T01:21:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-26T02:02:00Z,LORAZepam 2 mg/mL injection 0.5 mg,0 mg,intraVENOUS,Hold
+2022-11-26T02:15:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-26T03:24:00Z,acetaminophen tablet 650 mg,0 mg,oral,Hold
+2022-11-26T05:51:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,1.75 g,intraVENOUS,New Bag
+2022-11-26T05:52:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-26T05:52:00Z,levothyroxine 100 mcg in NSS 1 mL IV syringe,100 mcg,intraVENOUS,New Bag
+2022-11-26T06:06:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-26T06:07:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-26T06:07:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-26T06:35:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-26T06:35:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-26T07:22:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-26T08:39:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-26T08:42:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-26T08:42:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-26T08:55:00Z,methylPREDNISolone sodium succinate injection 65.2 mg,65.2 mg,intraVENOUS,Given
+2022-11-26T09:00:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-26T09:01:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Not Given
+2022-11-26T10:07:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-26T10:07:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Resumed
+2022-11-26T11:39:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-26T11:39:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-26T11:47:00Z,furosemide 10 mg/mL injection 20 mg,20 mg,intraVENOUS,Given
+2022-11-26T11:47:00Z,pantoprazole injection 40 mg,40 mg,intraVENOUS,Given
+2022-11-26T12:18:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-26T14:16:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-26T14:16:00Z,sodium chloride 0.9 % KVO,--,intraVENOUS,Infusion Stopped
+2022-11-26T15:24:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-26T16:21:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-26T16:21:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-26T16:22:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-26T16:23:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,4 Units,subcutaneous,Given
+2022-11-26T17:43:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-26T17:45:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,1.75 g,intraVENOUS,New Bag
+2022-11-26T18:16:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-26T18:31:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-26T19:15:00Z,VANCOmycin 1.75 g in NSS 500 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-26T20:55:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-26T20:55:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-26T21:06:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-26T21:06:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-26T21:06:00Z,cefEPIME 1 g in NSS 50 mL IVPB,1 g,intraVENOUS,New Bag
+2022-11-26T21:07:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-26T21:11:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Given
+2022-11-26T21:11:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-26T22:10:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-26T23:23:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-27T00:13:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-27T01:04:00Z,cefEPIME 1 g in NSS 50 mL IVPB,--,intraVENOUS,Rate/Dose Verify
+2022-11-27T01:06:00Z,cefEPIME 1 g in NSS 50 mL IVPB,0 g,intraVENOUS,Infusion Stopped
+2022-11-27T05:45:00Z,levothyroxine 100 mcg in NSS 1 mL IV syringe,100 mcg,intraVENOUS,New Bag
+2022-11-27T08:39:00Z,pantoprazole injection 40 mg,40 mg,intraVENOUS,Given
+2022-11-27T08:39:00Z,polyethylene glycol packet 17 g,17 g,oral,Given
+2022-11-27T08:39:00Z,senna tablet 17.2 mg,17.2 mg,oral,Given
+2022-11-27T08:40:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Not Given
+2022-11-27T08:40:00Z,furosemide 10 mg/mL injection 20 mg,20 mg,intraVENOUS,Given
+2022-11-27T08:40:00Z,methylPREDNISolone sodium succinate injection 65.2 mg,65.2 mg,intraVENOUS,Given
+2022-11-27T08:41:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-27T09:35:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-27T09:35:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-27T09:38:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,0 Units,subcutaneous,Not Given
+2022-11-27T09:39:00Z,benzonatate capsule 200 mg,200 mg,oral,Given
+2022-11-27T12:15:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-27T12:15:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-27T12:56:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-11-27T12:56:00Z,sodium chloride 0.65% nasal spray 2 spray,2 spray,both nostrils,Given
+2022-11-27T13:02:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Given
+2022-11-27T16:26:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,2 Units,subcutaneous,Given
+2022-11-27T16:52:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-27T16:52:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-27T18:21:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-27T20:50:00Z,senna tablet 17.2 mg,17.2 mg,oral,Given
+2022-11-27T20:51:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-27T20:52:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-11-27T20:55:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-27T20:55:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-11-27T20:58:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,4 Units,subcutaneous,Given
+2022-11-27T20:58:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-27T21:00:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-27T21:08:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-28T05:27:00Z,levothyroxine 100 mcg in NSS 1 mL IV syringe,100 mcg,intraVENOUS,New Bag
+2022-11-28T05:28:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-28T05:28:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-11-28T07:59:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-28T07:59:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-28T08:24:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-28T08:25:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-12 Units,4 Units,subcutaneous,Given
+2022-11-28T08:28:00Z,methylPREDNISolone sodium succinate injection 65.2 mg,65.2 mg,intraVENOUS,Given
+2022-11-28T08:28:00Z,pantoprazole injection 40 mg,40 mg,intraVENOUS,Given
+2022-11-28T08:29:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-28T08:29:00Z,sulfamethoxazole-trimethoprim DS (BACTRIM DS) 800-160 mg per tablet 1 tablet,1 tablet,oral,Given
+2022-11-28T09:24:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-11-28T09:24:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-11-28T13:07:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-28T13:07:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-28T13:42:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-28T13:42:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Hold
+2022-11-28T13:43:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-11-28T17:23:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-28T17:23:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-28T17:54:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-11-28T17:54:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-28T18:17:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-28T19:56:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-28T19:56:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-28T20:22:00Z,polyethylene glycol packet 17 g,17 g,oral,Given
+2022-11-28T20:22:00Z,senna tablet 17.2 mg,17.2 mg,oral,Given
+2022-11-28T20:26:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-28T22:08:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-28T22:08:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-11-28T22:10:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,6 Units,subcutaneous,Given
+2022-11-28T22:10:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-29T05:04:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-11-29T08:14:00Z,lansoprazole DR capsule 30 mg,30 mg,oral,Given
+2022-11-29T08:15:00Z,predniSONE tablet 80 mg,80 mg,oral,Given
+2022-11-29T08:16:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-29T08:16:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-11-29T08:16:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-29T08:19:00Z,senna tablet 17.2 mg,17.2 mg,oral,Given
+2022-11-29T08:42:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Hold
+2022-11-29T08:42:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-11-29T09:17:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-29T09:17:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-29T12:45:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-29T12:45:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-29T13:12:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-11-29T13:13:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-29T16:20:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-29T16:21:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-29T18:02:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-29T18:03:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-11-29T18:03:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-29T20:53:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-29T20:53:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-29T21:38:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-29T21:39:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-11-29T21:44:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-11-29T21:44:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-11-29T21:45:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-29T21:47:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-29T21:47:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-11-30T06:01:00Z,lansoprazole DR capsule 30 mg,30 mg,oral,Given
+2022-11-30T06:01:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-11-30T08:16:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-30T08:17:00Z,predniSONE tablet 80 mg,0 mg,oral,Hold
+2022-11-30T08:17:00Z,sulfamethoxazole-trimethoprim DS (BACTRIM DS) 800-160 mg per tablet 1 tablet,1 tablet,oral,Given
+2022-11-30T08:23:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-11-30T08:23:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-11-30T08:23:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-11-30T09:42:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-30T09:42:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-30T09:48:00Z,predniSONE tablet 60 mg,60 mg,oral,Given
+2022-11-30T12:57:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-11-30T13:49:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-30T13:49:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-30T14:29:00Z,aluminum-magnesium hydroxide-simethicone (MAALOX PLUS) 200-200-20 MG/5ML oral suspension 15 mL,15 mL,oral,Given
+2022-11-30T14:29:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-11-30T16:24:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-30T16:24:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-30T17:43:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,6 Units,subcutaneous,Given
+2022-11-30T17:43:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-11-30T17:44:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-11-30T19:46:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-11-30T19:46:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-11-30T21:11:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-11-30T21:11:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-11-30T21:11:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-11-30T21:11:00Z,senna tablet 17.2 mg,17.2 mg,oral,Given
+2022-11-30T21:49:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,9 Units,subcutaneous,Given
+2022-11-30T21:49:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-01T06:00:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-12-01T06:00:00Z,lansoprazole DR capsule 30 mg,30 mg,oral,Given
+2022-12-01T06:00:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-12-01T08:11:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-01T08:11:00Z,predniSONE tablet 60 mg,60 mg,oral,Given
+2022-12-01T08:13:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-12-01T08:13:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-12-01T10:12:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-12-01T10:12:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-12-01T10:13:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-01T12:26:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-12-01T17:48:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,4 Units,subcutaneous,Given
+2022-12-01T17:48:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-01T17:49:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-12-01T21:42:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-01T21:45:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-12-01T21:46:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-12-01T21:46:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-01T21:52:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-12-02T05:13:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-12-02T05:14:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-12-02T06:44:00Z,lansoprazole DR capsule 30 mg,30 mg,oral,Given
+2022-12-02T08:05:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-12-02T09:08:00Z,magnesium oxide tablet 800 mg,800 mg,oral,Given
+2022-12-02T09:08:00Z,predniSONE tablet 60 mg,60 mg,oral,Given
+2022-12-02T09:08:00Z,sulfamethoxazole-trimethoprim DS (BACTRIM DS) 800-160 mg per tablet 1 tablet,1 tablet,oral,Given
+2022-12-02T09:09:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-02T09:09:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-12-02T09:09:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-02T11:39:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-12-02T16:54:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-12-02T16:55:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-12-02T16:55:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-02T20:55:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-12-02T20:55:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-02T21:00:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-12-02T21:00:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-02T22:28:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-12-02T22:28:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-03T06:12:00Z,lansoprazole DR capsule 30 mg,30 mg,oral,Given
+2022-12-03T06:14:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Not Given
+2022-12-03T08:00:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-12-03T08:19:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-12-03T10:04:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-03T10:04:00Z,predniSONE tablet 60 mg,60 mg,oral,Given
+2022-12-03T12:52:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-12-03T13:16:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-12-03T13:16:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-03T17:47:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-12-03T18:17:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,9 Units,subcutaneous,Given
+2022-12-03T18:17:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-03T19:23:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-12-03T21:17:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-12-03T21:17:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-03T21:17:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-03T21:49:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-12-03T21:49:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-04T06:13:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-12-04T06:16:00Z,lansoprazole DR capsule 30 mg,30 mg,oral,Given
+2022-12-04T08:44:00Z,predniSONE tablet 60 mg,60 mg,oral,Given
+2022-12-04T08:46:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-04T08:47:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-12-04T08:47:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-04T09:26:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-12-04T09:54:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
+2022-12-04T09:54:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
+2022-12-04T12:37:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-12-04T17:19:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-04T17:20:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-12-04T17:48:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-12-04T19:54:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-12-04T21:11:00Z,benzonatate capsule 200 mg,200 mg,oral,Not Given
+2022-12-04T21:11:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-12-04T21:11:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-04T21:15:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-04T21:17:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,6 Units,subcutaneous,Given
+2022-12-04T21:17:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
