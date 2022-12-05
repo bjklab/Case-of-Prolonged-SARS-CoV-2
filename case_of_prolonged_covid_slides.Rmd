@@ -44,7 +44,7 @@ background-size: cover
 
 .move-top20[
 .title-text[<span style='font-size:1.0em'>COVID-19</span>]  
-.title-subtext[<span style='font-size:1.0em'>A Case of Prolonged Infection &<br> Organizing Pneumonia</span>]  
+.title-subtext[<span style='font-size:1.0em'>A Case of Prolonged Infection<br> & Organizing Pneumonia</span>]  
 ]  
   
 .callout-url-leftcorner[
@@ -92,6 +92,28 @@ exclude: true
     - present  
     
 - __Present Illness__:     
+  
+    -  organizing pneumonia on chronic steroids and home O2  
+    
+    - recent monoclonal and baricitinib with good clinical response
+  
+]  
+
+  
+  
+---
+
+## Previous COVID-19 Treatment        
+  
+.pad-left[  
+  
+- __Antiviral__:    
+  
+    - mantle cell lymphoma  
+    
+    - present  
+    
+- __Organizing Pneumonia__:     
   
     -  organizing pneumonia on chronic steroids and home O2  
     
