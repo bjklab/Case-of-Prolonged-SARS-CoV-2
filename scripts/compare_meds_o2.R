@@ -48,7 +48,7 @@ epic_o2 |>
                                 o2_measure == "o2_flow_l_min" ~ "O2 Flow (L/min)")) |> 
   ggplot(data = _, aes(x = date, y = o2_value, color = o2_measure)) +
   geom_vline(xintercept = as.Date("2022-11-25"), linetype = 2, color = "black") +
-  geom_rect(xmin = as.Date("2022-11-25"), xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey") +
+  geom_rect(xmin = as.Date("2022-11-25"), xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
   geom_point() +
   geom_line() +
   scale_color_viridis_d(option = "turbo") +
@@ -94,7 +94,7 @@ med_on_off |>
   mutate(med = factor(x = med, levels = c("corticosteroid", "nirmatrelvir<br>-ritonavir", "remdesivir"))) |>
   ggplot(data = _, aes(x = date, y = med, fill = administered)) +
   geom_vline(xintercept = as.Date("2022-11-25"), linetype = 2, color = "black") +
-  geom_rect(xmin = as.Date("2022-11-25"), xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey") +
+  geom_rect(xmin = as.Date("2022-11-25"), xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
   geom_point(color = "black", shape = 21, size = 5) +
   scale_fill_manual(values = list("TRUE" = "black", "FALSE" = "white")) +
   scale_x_date(date_breaks = "1 day", date_labels = "%b %d")  +
