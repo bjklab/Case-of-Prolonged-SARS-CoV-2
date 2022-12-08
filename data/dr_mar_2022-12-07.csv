@@ -600,23 +600,8 @@ date_time,order,dose,route,action
 2022-12-04T21:15:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
 2022-12-04T21:17:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,6 Units,subcutaneous,Given
 2022-12-04T21:17:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
-2022-12-05T03:22:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
-2022-12-05T03:22:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
 2022-12-05T05:27:00Z,lansoprazole DR capsule 30 mg,30 mg,oral,Given
 2022-12-05T05:28:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
-2022-12-05T05:38:00Z,acetaminophen tablet 975 mg,975 mg,oral,Given
-2022-12-05T05:39:00Z,diltiazem tablet 60 mg,60 mg,oral,Given
-2022-12-05T05:39:00Z,lidocaine 5 % patch 2 patch,2 patch,transDERMAL,Patch Removed
-2022-12-05T08:25:00Z,atorvastatin tablet 40 mg,40 mg,oral,Given
-2022-12-05T08:25:00Z,escitalopram tablet 10 mg,10 mg,oral,Given
-2022-12-05T08:25:00Z,predniSONE tablet 30 mg,30 mg,oral,Given
-2022-12-05T08:26:00Z,famotidine tablet 20 mg,20 mg,oral,Given
-2022-12-05T08:26:00Z,folic acid tablet 1 mg,1 mg,oral,Given
-2022-12-05T08:26:00Z,montelukast tablet 10 mg,10 mg,oral,Given
-2022-12-05T08:26:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
-2022-12-05T08:26:00Z,senna 8.8 mg/5mL oral solution 17.6 mg,17.6 mg,oral,Not Given
-2022-12-05T08:36:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
-2022-12-05T08:36:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Not Given
 2022-12-05T08:37:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
 2022-12-05T08:37:00Z,predniSONE tablet 60 mg,60 mg,oral,Given
 2022-12-05T08:37:00Z,sulfamethoxazole-trimethoprim DS (BACTRIM DS) 800-160 mg per tablet 1 tablet,1 tablet,oral,Given
@@ -624,64 +609,37 @@ date_time,order,dose,route,action
 2022-12-05T09:29:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
 2022-12-05T09:29:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
 2022-12-05T09:40:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
-2022-12-05T11:15:00Z,diltiazem tablet 60 mg,60 mg,oral,Given
 2022-12-05T13:03:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,2 Units,subcutaneous,Given
 2022-12-05T13:03:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
-2022-12-05T13:27:00Z,nicotine 14 MG/24HR patch 1 patch,1 patch,transDERMAL,Patch Removed
-2022-12-05T13:28:00Z,acetaminophen tablet 975 mg,975 mg,oral,Given
-2022-12-05T13:28:00Z,cetirizine tablet 10 mg,10 mg,oral,Given
-2022-12-05T13:28:00Z,nicotine 14 MG/24HR patch 1 patch,1 patch,transDERMAL,Medication Applied
-2022-12-05T15:59:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
-2022-12-05T16:01:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
-2022-12-05T17:20:00Z,diltiazem tablet 60 mg,60 mg,oral,Given
-2022-12-05T17:20:00Z,lidocaine 5 % patch 2 patch,2 patch,transDERMAL,Medication Applied
-2022-12-05T17:20:00Z,warfarin tablet 0.5 mg,0.5 mg,oral,Given
 2022-12-05T17:47:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
 2022-12-05T17:48:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
 2022-12-05T17:48:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,2 Units,subcutaneous,Given
 2022-12-05T19:33:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
-2022-12-05T21:13:00Z,chlorhexidine gluconate 4% topical liquid 1 application,1 application,topical,Not Given
-2022-12-05T21:14:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
-2022-12-05T21:14:00Z,senna 8.8 mg/5mL oral solution 17.6 mg,17.6 mg,oral,Not Given
-2022-12-05T21:26:00Z,acetaminophen tablet 975 mg,975 mg,oral,Given
-2022-12-05T21:26:00Z,melatonin tablet 6 mg,6 mg,oral,Given
 2022-12-05T21:31:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Given
 2022-12-05T21:31:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
 2022-12-05T21:31:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
 2022-12-05T21:32:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
 2022-12-05T21:39:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
-2022-12-05T23:53:00Z,diltiazem tablet 60 mg,60 mg,oral,Given
-2022-12-06T00:09:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
-2022-12-06T00:09:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
-2022-12-06T05:56:00Z,diltiazem tablet 60 mg,60 mg,oral,Given
-2022-12-06T05:57:00Z,acetaminophen tablet 975 mg,975 mg,oral,Given
-2022-12-06T09:36:00Z,lidocaine 5 % patch 2 patch,2 patch,transDERMAL,Patch Removed
-2022-12-06T09:37:00Z,escitalopram tablet 10 mg,10 mg,oral,Given
-2022-12-06T09:37:00Z,famotidine tablet 20 mg,20 mg,oral,Given
-2022-12-06T09:38:00Z,albuterol (2.5 mg/3 mL) 0.083% nebulizer solution 2.5 mg,2.5 mg,nebulizer,Given
-2022-12-06T09:38:00Z,folic acid tablet 1 mg,1 mg,oral,Given
-2022-12-06T09:38:00Z,ipratropium (ATROVENT) 0.02% nebulizer solution 2.5 mL,2.5 mL,nebulizer,Given
-2022-12-06T09:38:00Z,predniSONE tablet 30 mg,30 mg,oral,Given
-2022-12-06T09:39:00Z,atorvastatin tablet 40 mg,40 mg,oral,Given
-2022-12-06T09:39:00Z,montelukast tablet 10 mg,10 mg,oral,Given
-2022-12-06T09:44:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
-2022-12-06T09:44:00Z,senna 8.8 mg/5mL oral solution 17.6 mg,17.6 mg,oral,Not Given
-2022-12-06T10:15:00Z,Fluticasone-Salmeterol 100-50 MCG/ACT diskus inhaler 1 puff,1 puff,inhalation,Not Given
-2022-12-06T10:15:00Z,tiotropium bromide (SPIRIVA RESPIMAT) inhaler 2 puff,2 puff,inhalation,Not Given
-2022-12-06T12:28:00Z,polyethylene glycol packet 17 g,17 g,oral,Given
-2022-12-06T12:54:00Z,diltiazem tablet 60 mg,60 mg,oral,Given
-2022-12-06T13:36:00Z,nicotine 14 MG/24HR patch 1 patch,1 patch,transDERMAL,Patch Removed
-2022-12-06T13:37:00Z,acetaminophen tablet 975 mg,975 mg,oral,Given
-2022-12-06T13:38:00Z,cetirizine tablet 10 mg,10 mg,oral,Given
-2022-12-06T13:39:00Z,nicotine 14 MG/24HR patch 1 patch,1 patch,transDERMAL,Medication Applied
-2022-12-06T15:41:00Z,diltiazem 25 mg/5 mL injection 5 mg,0 mg,intraVENOUS,Hold
-2022-12-06T17:45:00Z,lidocaine 5 % patch 2 patch,2 patch,transDERMAL,Medication Applied
-2022-12-06T17:47:00Z,diltiazem tablet 75 mg,75 mg,oral,Given
-2022-12-06T17:48:00Z,warfarin tablet 1 mg,1 mg,oral,Given
-2022-12-06T18:55:00Z,acetaminophen tablet 975 mg,975 mg,oral,Given
-2022-12-06T21:13:00Z,melatonin tablet 6 mg,6 mg,oral,Given
-2022-12-06T21:13:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
-2022-12-06T21:13:00Z,rosuvastatin tablet 20 mg,20 mg,oral,Given
-2022-12-06T21:13:00Z,senna 8.8 mg/5mL oral solution 17.6 mg,17.6 mg,oral,Not Given
-2022-12-06T21:14:00Z,chlorhexidine gluconate 4% topical liquid 1 application,1 application,topical,Given
-2022-12-06T22:44:00Z,Fluticasone-Salmeterol 100-50 MCG/ACT diskus inhaler 1 puff,1 puff,inhalation,Given
+2022-12-06T05:27:00Z,lansoprazole DR capsule 30 mg,30 mg,oral,Given
+2022-12-06T05:28:00Z,levothyroxine tablet 150 mcg,150 mcg,oral,Given
+2022-12-06T08:37:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-06T08:37:00Z,predniSONE tablet 60 mg,60 mg,oral,Given
+2022-12-06T08:37:00Z,sulfamethoxazole-trimethoprim DS (BACTRIM DS) 800-160 mg per tablet 1 tablet,1 tablet,oral,Given
+2022-12-06T09:28:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,0 Units,subcutaneous,Not Given
+2022-12-06T09:29:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given
+2022-12-06T09:29:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-06T09:40:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-12-06T13:03:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,2 Units,subcutaneous,Given
+2022-12-06T13:03:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-06T17:47:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-06T17:48:00Z,Enoxaparin Sodium 40 MG/0.4ML injection 40 mg,40 mg,subcutaneous,Given
+2022-12-06T17:48:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,2 Units,subcutaneous,Given
+2022-12-06T19:33:00Z,guaifenesin 100 MG/5ML oral liquid 200 mg,200 mg,oral,Given
+2022-12-06T21:31:00Z,fluticasone 50 MCG/ACT nasal spray 2 spray,2 spray,both nostrils,Given
+2022-12-06T21:31:00Z,insulin aspart (NovoLOG) pen device,1 each,Does not apply,Given
+2022-12-06T21:31:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-06T21:32:00Z,insulin aspart (NovoLOG) 100 UNIT/ML injection 0-18 Units,3 Units,subcutaneous,Given
+2022-12-06T21:39:00Z,senna tablet 17.2 mg,17.2 mg,oral,Not Given
+2022-12-07T08:37:00Z,nirmatrelvir & ritONAvir 300/100 (PAXLOVID) 20 x 150 MG & 10 x 100MG 3 tablet,3 tablet,oral,Given
+2022-12-07T08:37:00Z,predniSONE tablet 60 mg,60 mg,oral,Given
+2022-12-07T09:29:00Z,polyethylene glycol packet 17 g,17 g,oral,Not Given

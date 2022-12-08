@@ -68,7 +68,7 @@ dr_clean |>
 #' ##############################
 #' load raw resp epic data
 #' ############################## 
-read_csv("./data/DR_epic_oxygenation_2022-12-05.csv", col_names = FALSE) |> 
+read_csv("./data/DR_epic_oxygenation_2022-12-07.csv", col_names = FALSE) |> 
   pivot_longer(cols = c(-X1)) |> 
   select(-name) |> 
   pivot_wider(names_from = X1, values_from = value, values_fn = list) |> 
@@ -81,4 +81,4 @@ dr_epic |>
   gt()
 
 dr_epic |> 
-  write_csv("./data/dr_o2_flow_epic_2022-12-05.csv")
+  write_csv("./data/dr_o2_flow_epic_2022-12-07.csv")

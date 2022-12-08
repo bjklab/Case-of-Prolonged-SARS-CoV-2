@@ -17,10 +17,10 @@ set.seed(16)
 o2 <- read_csv("./data/dr_o2_flow_formatted_2022-12-05.csv")
 o2
 
-epic_o2 <- read_csv("./data/dr_o2_flow_epic_2022-12-05.csv")
+epic_o2 <- read_csv("./data/dr_o2_flow_epic_2022-12-07.csv")
 epic_o2
 
-med <- read_csv("./data/dr_mar_2022-12-05.csv")
+med <- read_csv("./data/dr_mar_2022-12-07.csv")
 med
 
 

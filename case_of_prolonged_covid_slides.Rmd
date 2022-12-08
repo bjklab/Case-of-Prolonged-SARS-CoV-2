@@ -125,11 +125,11 @@ exclude: true
   
 ---
 
-## Chest Imaging:         
+## Chest Imaging: July 2022        
   
 .center[
-```{r chest1, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.height='80%'}
-#knitr::include_graphics("img/chest_ct1.png")
+```{r ct_2022_07, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='60%'}
+knitr::include_graphics("img/dr_ct_2022-07.png")
 ```
 ]
 
@@ -138,17 +138,100 @@ exclude: true
   
 ---
 
-## Chest Imaging:         
+## Chest Imaging: August 2022        
   
 .center[
-```{r chest2, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.height='80%'}
-#knitr::include_graphics("img/chest_ct2.png")
+```{r ct_2022_08, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='60%'}
+knitr::include_graphics("img/dr_ct_2022-08.png")
 ```
 ]
 
 
   
   
+---
+
+## Chest Imaging: October 2022 (1)        
+  
+.center[
+```{r ct_2022_10a, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='60%'}
+knitr::include_graphics("img/dr_ct_2022-10a.png")
+```
+]
+
+
+  
+  
+---
+
+## Chest Imaging: October 2022 (2)        
+  
+.center[
+```{r ct_2022_10b, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='60%'}
+knitr::include_graphics("img/dr_ct_2022-10b.png")
+```
+]
+
+
+  
+  
+---
+
+## Chest Imaging: November 2022 (1)        
+  
+.center[
+```{r ct_2022_11a, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='60%'}
+knitr::include_graphics("img/dr_ct_2022-11a.png")
+```
+]
+
+
+  
+  
+---
+
+## Chest Imaging: November 2022 (2)        
+  
+.center[
+```{r ct_2022_11b, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='60%'}
+knitr::include_graphics("img/dr_ct_2022-11b.png")
+```
+]
+
+
+  
+  
+---
+
+## Chest Imaging: December 2022        
+  
+.center[
+```{r ct_2022_12, echo=FALSE, message=FALSE, error=FALSE, comment=FALSE, eval=TRUE, autodep=TRUE, fig.align='center', out.width='60%'}
+knitr::include_graphics("img/dr_ct_2022-12.png")
+```
+]
+
+
+  
+  
+---
+
+## Chest Imaging: December 2022
+
+.pad-left[
+
+- Improved diffuse severe lung disease though with some new sites of disease.  
+  
+- Etiology uncertain. Given waxing and waning course ... considerations include organizing pneumonia (COVID-19, drug toxicity), eosinophilic lung disease, and vasculitis.
+
+- Resultant and increased areas of traction bronchiectasis suggesting fibrosis.
+
+
+]
+
+
+
+
 ---
 background-image: url("figs/p_ct.png")
 background-position: center
