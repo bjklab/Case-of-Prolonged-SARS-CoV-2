@@ -12,7 +12,7 @@ set.seed(16)
 #' ##############################
 #' read Ct data
 #' ############################## 
-ct <- read_tsv("../ct_values_2021-present_20221026.tsv.gz")
+ct <- read_tsv("../ct_values_2021-present_20221208.tsv.gz")
 
 
 
@@ -35,23 +35,51 @@ ct_trend
 #' ############################## 
 ct_trend |> 
   ggplot(data = _, aes(x = date, y = ct_value)) +
-  geom_vline(xintercept = as.Date("2022-11-25"), linetype = 2, color = "black") +
-  geom_rect(xmin = as.Date("2022-11-25"), xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey") +
-  geom_point(color = "darkgreen") +
-  geom_line(color = "darkgreen") +
-  scale_x_date(date_breaks = "1 week", date_labels = "%b %d")  +
+  #geom_vline(xintercept = as.Date("2022-11-25"), linetype = 2, color = "black") +
+  #geom_rect(xmin = as.Date("2022-11-25"), xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
+  geom_point(color = "darkgreen", size = 3) +
+  geom_line(color = "darkgreen", linewidth = 1) +
+  annotate(geom = "point", x = as.Date("2022-05-15"), y = 33, color = "darkgreen", size = 3, shape = 22, fill = "darkgreen") +
+  scale_x_date(date_breaks = "1 month", date_labels = "%b %d<br>%Y", limits = c(as.Date("2022-05-01"), as.Date("2022-12-07"))) +
   scale_y_continuous(limits = c(0,50)) +
   theme_bw() +
   theme(strip.background = element_blank(),
-        axis.text.x = element_text(color = "black", angle = 45, vjust = 0.5, hjust = 1),
+        axis.text.x = ggtext::element_markdown(color = "black", angle = 45, vjust = 0.5, hjust = 1),
         axis.text.y = ggtext::element_markdown(color = "black"),
         axis.title.y = ggtext::element_markdown(color = "black"),
         legend.position = "none") +
-  labs(x = "", y = "SARS-CoV-2 Cycle Threshold (Ct)") -> p_ct
-p_ct
+  labs(x = "", y = "SARS-CoV-2 Cycle Threshold (Ct)") -> p_ct_pre
+p_ct_pre
 
 
-p_ct |> 
-  ggsave(plot = _, filename = "./figs/p_ct.png", height = 6, width = 8, units = "in", dpi = 600)
-p_ct |> 
-  ggsave(plot = _, filename = "./figs/p_ct.pdf", height = 6, width = 8, units = "in")
+p_ct_pre |> 
+  ggsave(plot = _, filename = "./figs/p_ct_pre.png", height = 6, width = 8, units = "in", dpi = 600)
+p_ct_pre |> 
+  ggsave(plot = _, filename = "./figs/p_ct_pre.pdf", height = 6, width = 8, units = "in")
+
+
+ct_trend |> 
+  ggplot(data = _, aes(x = date, y = ct_value)) +
+  geom_vline(xintercept = as.Date("2022-11-25"), linetype = 2, color = "black") +
+  geom_rect(xmin = as.Date("2022-11-25"), xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
+  geom_point(color = "darkgreen", size = 3) +
+  geom_line(color = "darkgreen", linewidth = 1) +
+  annotate(geom = "point", x = as.Date("2022-05-15"), y = 33, color = "darkgreen", size = 3, shape = 22, fill = "darkgreen") +
+  annotate(geom = "text", x = as.Date("2022-11-30"), y = 45, label = "*", color = "darkgreen", size = 8) +
+  scale_x_date(date_breaks = "1 month", date_labels = "%b %d<br>%Y", limits = c(as.Date("2022-05-01"), as.Date("2022-12-07"))) +
+  scale_y_continuous(limits = c(0,50)) +
+  theme_bw() +
+  theme(strip.background = element_blank(),
+        axis.text.x = ggtext::element_markdown(color = "black", angle = 45, vjust = 0.5, hjust = 1),
+        axis.text.y = ggtext::element_markdown(color = "black"),
+        axis.title.y = ggtext::element_markdown(color = "black"),
+        legend.position = "none") +
+  labs(x = "", y = "SARS-CoV-2 Cycle Threshold (Ct)") -> p_ct_post
+p_ct_post
+
+
+p_ct_post |> 
+  ggsave(plot = _, filename = "./figs/p_ct_post.png", height = 6, width = 8, units = "in", dpi = 600)
+p_ct_post |> 
+  ggsave(plot = _, filename = "./figs/p_ct_post.pdf", height = 6, width = 8, units = "in")
+
