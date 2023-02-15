@@ -125,3 +125,14 @@ p_combined |>
 
   
 
+
+
+#' ##############################
+#' reformat plots to anonymize dates
+#' ############################## 
+
+#scales::trans_new(name = "minus19314", transform = ~ .x - 19314, inverse = ~ .x + 19314)
+
+p_o2 +
+  scale_y_continuous(labels = scales::percent())
+  #scale_x_continuous(trans = scales::trans_new(name = "minus19314", transform = ~ .x - 19314, inverse = ~ .x + 19314))
