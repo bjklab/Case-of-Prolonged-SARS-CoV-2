@@ -131,8 +131,46 @@ p_combined |>
 #' reformat plots to anonymize dates
 #' ############################## 
 
-#scales::trans_new(name = "minus19314", transform = ~ .x - 19314, inverse = ~ .x + 19314)
+epic_o2 |> 
+  select(date, o2_flow_l_min, fi_o2_percent) |>
+  mutate(fi_o2_percent = fi_o2_percent / 100,
+         date_num = as.numeric(date - min(date)),
+         date_str = paste0("Hospital Day ", stringr::str_pad(string = date_num, width = 2, side = 'left', pad = "0"))) |>  
+  rename(`FiO2 (%)` = fi_o2_percent,
+         `O2 Flow (L/min)` = o2_flow_l_min,
+         `Hospital Day` = date_num) |> 
+  identity() -> epic_o2_plus
+epic_o2_plus
 
-p_o2 +
-  scale_y_continuous(labels = scales::percent())
-  #scale_x_continuous(trans = scales::trans_new(name = "minus19314", transform = ~ .x - 19314, inverse = ~ .x + 19314))
+epic_o2_plus |> 
+  ggplot(data = _, aes(x = `Hospital Day`, y = `FiO2 (%)`)) +
+  geom_vline(xintercept = 6, linetype = 2, color = "black") +
+  geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
+  geom_point() +
+  geom_line() +
+  #scale_color_viridis_d(option = "turbo") +
+  scale_x_continuous(breaks = seq(0,18,1)) +
+  scale_y_continuous(labels = scales::percent) +
+  theme_bw() +
+  theme(strip.background = element_blank(),
+        axis.text.x = element_text(color = "black", angle = 45, vjust = 0.5, hjust = 1),
+        axis.text.y = element_text(color = "black"),
+        legend.position = "none") -> p_fio2
+p_fio2
+
+epic_o2_plus |> 
+  ggplot(data = _, aes(x = `Hospital Day`, y = `O2 Flow (L/min)`)) +
+  geom_vline(xintercept = 6, linetype = 2, color = "black") +
+  geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
+  geom_point() +
+  geom_line() +
+  #scale_color_viridis_d(option = "turbo") +
+  scale_x_continuous(breaks = seq(0,18,1)) +
+  #scale_y_continuous(labels = scales::percent) +
+  theme_bw() +
+  theme(strip.background = element_blank(),
+        axis.text.x = element_text(color = "black", angle = 45, vjust = 0.5, hjust = 1),
+        axis.text.y = element_text(color = "black"),
+        legend.position = "none") -> p_flowo2
+p_flowo2
+
