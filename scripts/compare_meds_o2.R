@@ -136,41 +136,76 @@ epic_o2 |>
   mutate(fi_o2_percent = fi_o2_percent / 100,
          date_num = as.numeric(date - min(date)),
          date_str = paste0("Hospital Day ", stringr::str_pad(string = date_num, width = 2, side = 'left', pad = "0"))) |>  
-  rename(`FiO2 (%)` = fi_o2_percent,
-         `O2 Flow (L/min)` = o2_flow_l_min,
+  rename(`FiO~2~ (%)` = fi_o2_percent,
+         `O~2~ Flow (L/min)` = o2_flow_l_min,
          `Hospital Day` = date_num) |> 
   identity() -> epic_o2_plus
 epic_o2_plus
 
 epic_o2_plus |> 
-  ggplot(data = _, aes(x = `Hospital Day`, y = `FiO2 (%)`)) +
+  ggplot(data = _, aes(x = `Hospital Day`, y = `FiO~2~ (%)`)) +
   geom_vline(xintercept = 6, linetype = 2, color = "black") +
   geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
-  geom_point() +
-  geom_line() +
+  geom_point(size = 2) +
+  geom_line(linewidth = 1.5) +
   #scale_color_viridis_d(option = "turbo") +
+  #scale_color_manual(values = ggsci::pal_jama()(3)[1]) +
   scale_x_continuous(breaks = seq(0,18,1)) +
   scale_y_continuous(labels = scales::percent) +
   theme_bw() +
   theme(strip.background = element_blank(),
-        axis.text.x = element_text(color = "black", angle = 45, vjust = 0.5, hjust = 1),
-        axis.text.y = element_text(color = "black"),
+        axis.text.x = element_text(color = "black", angle = 0, vjust = 0.5, hjust = 1),
+        axis.text.y = ggtext::element_markdown(color = "black"),
         legend.position = "none") -> p_fio2
 p_fio2
 
 epic_o2_plus |> 
-  ggplot(data = _, aes(x = `Hospital Day`, y = `O2 Flow (L/min)`)) +
+  ggplot(data = _, aes(x = `Hospital Day`, y = `O~2~ Flow (L/min)`)) +
   geom_vline(xintercept = 6, linetype = 2, color = "black") +
-  geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
-  geom_point() +
-  geom_line() +
+  geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.2) +
+  geom_point(size = 2) +
+  geom_line(linewidth = 1.5) +
   #scale_color_viridis_d(option = "turbo") +
   scale_x_continuous(breaks = seq(0,18,1)) +
   #scale_y_continuous(labels = scales::percent) +
   theme_bw() +
   theme(strip.background = element_blank(),
-        axis.text.x = element_text(color = "black", angle = 45, vjust = 0.5, hjust = 1),
-        axis.text.y = element_text(color = "black"),
+        axis.text.x = element_text(color = "black", angle = 0, vjust = 0.5, hjust = 1),
+        axis.text.y = ggtext::element_markdown(color = "black"),
         legend.position = "none") -> p_flowo2
 p_flowo2
+
+med_on_off |> 
+  select(date, corticosteroid, remdesivir, nirmatrelvir) |> 
+  pivot_longer(cols = c(-date), names_to = "med", values_to = "administered") |> 
+  filter(date %in% unique(epic_o2$date)) |> 
+  mutate(date_num = as.numeric(date - min(date)),
+         date_str = paste0("Hospital Day ", stringr::str_pad(string = date_num, width = 2, side = 'left', pad = "0"))) |> 
+  mutate(med = replace(med, med == "nirmatrelvir", "nirmatrelvir<br>-ritonavir")) |> 
+  mutate(med = factor(x = med, levels = c("corticosteroid", "nirmatrelvir<br>-ritonavir", "remdesivir"))) |>
+  ggplot(data = _, aes(x = date_num, y = med, fill = administered)) +
+  #geom_vline(xintercept = as.Date("2022-11-25"), linetype = 2, color = "black") +
+  #geom_rect(xmin = as.Date("2022-11-25"), xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
+  geom_vline(xintercept = 6, linetype = 2, color = "black") +
+  geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.2) +
+  geom_point(color = "black", shape = 21, size = 5) +
+  scale_fill_manual(values = list("TRUE" = "black", "FALSE" = "white")) +
+  scale_x_continuous(breaks = seq(0,18,1))  +
+  theme_bw() +
+  theme(strip.background = element_blank(),
+        axis.text.x = element_text(color = "black", angle = 0, vjust = 0.5, hjust = 1),
+        axis.text.y = ggtext::element_markdown(color = "black"),
+        legend.position = "none") +
+  labs(x = "Hospital Day", y = "") -> p_med_num
+p_med_num
+
+(((p_fio2 + theme(axis.title.x = element_blank(), axis.text.x = element_blank())) / (p_flowo2 + theme(axis.title.x = element_blank(), axis.text.x = element_blank())) / p_med_num) +
+  plot_layout(heights = c(1,1,1))) |> 
+  identity() -> p_combined_num
+p_combined_num
+
+p_combined_num |> 
+  ggsave(plot = _, filename = "./figs/p_combined_num.png", height = 6, width = 8, units = "in", dpi = 600)
+p_combined_num |> 
+  ggsave(plot = _, filename = "./figs/p_combined_num.pdf", height = 6, width = 8, units = "in")
 
