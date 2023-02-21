@@ -29,6 +29,9 @@ ct |>
   identity() -> ct_trend
 ct_trend
 
+# ct_trend  |> 
+#   write_csv("./data/ct_trend.csv")
+
 
 #' ##############################
 #' plot Ct data

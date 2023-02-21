@@ -6,6 +6,7 @@ library(lubridate)
 library(janitor)
 library(gt)
 library(patchwork)
+library(gridExtra)
 
 set.seed(16)
 
@@ -147,7 +148,7 @@ epic_o2_plus |>
   geom_vline(xintercept = 6, linetype = 2, color = "black") +
   #geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.2) +
   geom_point(size = 2) +
-  geom_line(linewidth = 1.5) +
+  geom_line(linewidth = 1) +
   #scale_color_viridis_d(option = "turbo") +
   #scale_color_manual(values = ggsci::pal_jama()(3)[1]) +
   scale_x_continuous(breaks = seq(0,18,1)) +
@@ -167,7 +168,7 @@ epic_o2_plus |>
   geom_vline(xintercept = 6, linetype = 2, color = "black") +
   #geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.2) +
   geom_point(size = 2) +
-  geom_line(linewidth = 1.5) +
+  geom_line(linewidth = 1) +
   #scale_color_viridis_d(option = "turbo") +
   scale_x_continuous(breaks = seq(0,18,1)) +
   #scale_y_continuous(labels = scales::percent) +
@@ -215,3 +216,17 @@ p_combined_num |>
 p_combined_num |> 
   ggsave(plot = _, filename = "./figs/p_combined_num.pdf", height = 6, width = 8, units = "in")
 
+
+# fix y-axis labels: inspired by https://github.com/thomasp85/patchwork/issues/110#issuecomment-1139955645
+
+(((p_fio2 + theme(axis.title.x = element_blank(), axis.text.x = element_blank(), axis.title.y = element_blank()) + ggtext::geom_richtext(x = -2.4, y = 0.70, angle = 90, label = "Fraction of Inspired O<sub>2</sub>", label.color = NA) + coord_cartesian(clip = 'off')) / 
+  (p_flowo2 + theme(axis.title.x = element_blank(), axis.text.x = element_blank(), axis.title.y = element_blank()) + ggtext::geom_richtext(x = -2.4, y = 30, angle = 90, label = "O<sub>2</sub> Flow (L/min)", label.color = NA) + coord_cartesian(clip = 'off')) /
+   p_med_num) +
+  plot_layout(heights = c(1,1,1))) |> 
+  identity() -> p_combined_num_align
+p_combined_num_align
+
+p_combined_num_align |> 
+  ggsave(plot = _, filename = "./figs/p_combined_num_align.png", height = 6, width = 8, units = "in", dpi = 600)
+p_combined_num_align |> 
+  ggsave(plot = _, filename = "./figs/p_combined_num_align.pdf", height = 6, width = 8, units = "in")
