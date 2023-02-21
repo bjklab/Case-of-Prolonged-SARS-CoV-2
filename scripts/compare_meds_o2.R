@@ -136,16 +136,16 @@ epic_o2 |>
   mutate(fi_o2_percent = fi_o2_percent / 100,
          date_num = as.numeric(date - min(date)),
          date_str = paste0("Hospital Day ", stringr::str_pad(string = date_num, width = 2, side = 'left', pad = "0"))) |>  
-  rename(`FiO~2~ (%)` = fi_o2_percent,
-         `O~2~ Flow (L/min)` = o2_flow_l_min,
+  rename(`FiO2 (%)` = fi_o2_percent,
+         `O2 Flow (L/min)` = o2_flow_l_min,
          `Hospital Day` = date_num) |> 
   identity() -> epic_o2_plus
 epic_o2_plus
 
 epic_o2_plus |> 
-  ggplot(data = _, aes(x = `Hospital Day`, y = `FiO~2~ (%)`)) +
+  ggplot(data = _, aes(x = `Hospital Day`, y = `FiO2 (%)`)) +
   geom_vline(xintercept = 6, linetype = 2, color = "black") +
-  geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
+  #geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.2) +
   geom_point(size = 2) +
   geom_line(linewidth = 1.5) +
   #scale_color_viridis_d(option = "turbo") +
@@ -154,15 +154,18 @@ epic_o2_plus |>
   scale_y_continuous(labels = scales::percent) +
   theme_bw() +
   theme(strip.background = element_blank(),
-        axis.text.x = element_text(color = "black", angle = 0, vjust = 0.5, hjust = 1),
+        axis.text.x = element_text(color = "black", angle = 0, vjust = 0.5, hjust = 0.5),
         axis.text.y = ggtext::element_markdown(color = "black"),
-        legend.position = "none") -> p_fio2
+        axis.title.y = ggtext::element_markdown(color = "black"),
+        axis.title.x = ggtext::element_markdown(color = "black"),
+        legend.position = "none") +
+  labs(x = "Hospital Day", y = "Fraction of Inspired O<sub>2</sub>") -> p_fio2
 p_fio2
 
 epic_o2_plus |> 
-  ggplot(data = _, aes(x = `Hospital Day`, y = `O~2~ Flow (L/min)`)) +
+  ggplot(data = _, aes(x = `Hospital Day`, y = `O2 Flow (L/min)`)) +
   geom_vline(xintercept = 6, linetype = 2, color = "black") +
-  geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.2) +
+  #geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.2) +
   geom_point(size = 2) +
   geom_line(linewidth = 1.5) +
   #scale_color_viridis_d(option = "turbo") +
@@ -170,9 +173,12 @@ epic_o2_plus |>
   #scale_y_continuous(labels = scales::percent) +
   theme_bw() +
   theme(strip.background = element_blank(),
-        axis.text.x = element_text(color = "black", angle = 0, vjust = 0.5, hjust = 1),
-        axis.text.y = ggtext::element_markdown(color = "black"),
-        legend.position = "none") -> p_flowo2
+        axis.text.x = element_text(color = "black", angle = 0, vjust = 0.5, hjust = 0.5),
+        axis.text.y = ggtext::element_markdown(color = "black"),,
+        axis.title.y = ggtext::element_markdown(color = "black"),
+        axis.title.x = ggtext::element_markdown(color = "black"),
+        legend.position = "none") +
+  labs(x = "Hospital Day", y = "O<sub>2</sub> Flow (L/min)") -> p_flowo2
 p_flowo2
 
 med_on_off |> 
@@ -187,13 +193,13 @@ med_on_off |>
   #geom_vline(xintercept = as.Date("2022-11-25"), linetype = 2, color = "black") +
   #geom_rect(xmin = as.Date("2022-11-25"), xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.6) +
   geom_vline(xintercept = 6, linetype = 2, color = "black") +
-  geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.2) +
+  #geom_rect(xmin = 6, xmax = Inf, ymin = -Inf, ymax = Inf, color = NA, fill = "grey", alpha = 0.2) +
   geom_point(color = "black", shape = 21, size = 5) +
   scale_fill_manual(values = list("TRUE" = "black", "FALSE" = "white")) +
   scale_x_continuous(breaks = seq(0,18,1))  +
   theme_bw() +
   theme(strip.background = element_blank(),
-        axis.text.x = element_text(color = "black", angle = 0, vjust = 0.5, hjust = 1),
+        axis.text.x = element_text(color = "black", angle = 0, vjust = 0.5, hjust = 0.5),
         axis.text.y = ggtext::element_markdown(color = "black"),
         legend.position = "none") +
   labs(x = "Hospital Day", y = "") -> p_med_num
